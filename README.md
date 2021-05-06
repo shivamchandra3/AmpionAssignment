@@ -8,7 +8,7 @@ Simple APIs to use with OpenWeatherMap.org free servicies, requests a APPID on h
 Simple abstraction layer for using the services are offered by the OpenWeatherMap.org website through its API's. We can easily get the Weather information as per our need on over 400k weather destination (cities). For getting the APPID follow the OpenWeather.org and Complete the request process.
 
 
-# How It Works:
+## How It Works:
 The main method in class NewTest.java builds the connection with the api server, the main method used is "GET",to retrieve the details of weather forecast.
 Response code is validated and printed as well on the console.
 
