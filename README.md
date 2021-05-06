@@ -5,7 +5,7 @@ Simple APIs to use with OpenWeatherMap.org free servicies, requests a APPID on h
 
 
 ## Intro
-Simple abstraction layer for using the services are offered by the OpenWeatherMap.org website through its API's. We can easily get the Weather information as per our need on over 400k weather destination (cities). For getting the APPID follow the OpenWeather.org and Complete the request process.
+Simple abstraction layer for using the services are offered by the http://openWeatherMap.org website through its API's. We can easily get the Weather information as per our need on over 400k weather destination (cities). For getting the APPID follow the OpenWeather.org and Complete the request process.
 
 
 ## How It Works:
